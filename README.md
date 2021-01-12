@@ -5,7 +5,7 @@
 
 | Week | Date  |          Topic          |  Demo   | Reading |     Assignment     |
 |:----:|:-----:|-------------------------|---------|---------|:------------------:|
-|  1   | 01/14 |   Intro to Computing    |  [Demo 0](https://sfu.syzygy.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fandrewdnolan%2FEASC-305&urlpath=tree%2FEASC-305%2F%2FDemos%2F02_Computing.ipynb&branch=main)       |         |                    |
+|  1   | 01/14 |   Intro to Computing    |  [Demo 0](https://sfu.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fandrewdnolan%2FEASC-305&urlpath=tree%2FEASC-305%2FDemos%2F02_Computing.ipynb&branch=main) |         |                    |
 |  2   | 01/21 |                         |         |         | Lab 01 (Due 01/28) |
 |  3   | 01/28 |                         |         |         | Lab 02 (Due 02/02) |
 |  4   | 02/02 |                         |         |         | Lab 03 (Due 02/11) |
