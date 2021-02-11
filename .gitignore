@@ -2,9 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-# 
-Assignments/04_regression/GL1_stake_ablation_2009.csv 
-Assignments/04_regression/GL1_stake_ablation_2012.csv
+
+# Lab 4 file, ignore them so students have to run the scripts themseleves
+Lab_Demos/04_statistics_p3/GL1_stake_ablation_2012.csv
+Lab_Demos/04_statistics_p3/GL1_stake_ablation_2019.csv
+Assignments/04_statistics_p3/GL1_stake_ablation_2012.csv
+Assignments/04_statistics_p3/GL1_stake_ablation_2009.csv
 # C extensions
 *.so
 
