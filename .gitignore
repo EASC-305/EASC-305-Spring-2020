@@ -2,7 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+# 
+Assignments/04_regression/GL1_stake_ablation_2009.csv 
+Assignments/04_regression/GL1_stake_ablation_2012.csv
 # C extensions
 *.so
 
